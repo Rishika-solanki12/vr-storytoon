@@ -44,6 +44,9 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "http://localhost:3001",
         "http://127.0.0.1:3001",
+        "https://vr-storytoon.vercel.app",
+        "https://vr-storytoon-ph58q88fh-rishika121714-5199.vercel.app",
+
     ],
     allow_credentials=True,
     allow_methods=["*"],
